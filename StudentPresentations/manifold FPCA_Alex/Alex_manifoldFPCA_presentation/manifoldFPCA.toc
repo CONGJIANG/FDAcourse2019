@@ -1,0 +1,9 @@
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Manifolds}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{Geodesics}{8}{0}{1}
+\beamer@subsectionintoc {1}{3}{Tangent space}{11}{0}{1}
+\beamer@subsectionintoc {1}{4}{Mapping}{14}{0}{1}
+\beamer@sectionintoc {2}{FPCA for data on manifold}{19}{0}{2}
+\beamer@subsectionintoc {2}{1}{Preliminaries}{19}{0}{2}
+\beamer@subsectionintoc {2}{2}{Estimation procedure}{31}{0}{2}
+\beamer@sectionintoc {3}{Example}{33}{0}{3}
