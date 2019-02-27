@@ -15,6 +15,6 @@ Lecture slides and R codes for the functional data analysis course in 2019
 # "Yanjun"  - Feb 27 "Optimal Bayes Classifiers for functional data"
 # "Joel"  - March 4   
 # "Sidi"  - March 4,6 "Functional linear Cox regression model"   
-# "Grace" - March 6 
-# "Erin" - March 11  
+# "Grace" - March 6  "Discriminative Functional Mixture Models" 
+# "Erin" - March 11  "Functional graphical models"
 # "Leshun" - March 13
