@@ -1,7 +1,7 @@
 # FDAcourse2019
 Lecture slides and R codes for the functional data analysis course in 2019
 
-Please submit Assignment 1 at https://docs.google.com/forms/d/1Qi1t_BhuA-csX3RBTPZq_X6zpukUVxPjAP1hJ3jbXmU/edit 
+Please submit Assignment 1 at https://goo.gl/forms/GpSF507Gjmv2AhLv2
 
 Deadline to submit Reports for final projects is 5pm, Monday, April 22.
 
