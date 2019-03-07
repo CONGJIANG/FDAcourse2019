@@ -1,6 +1,8 @@
 # FDAcourse2019
 Lecture slides and R codes for the functional data analysis course in 2019
 
+Please submit Assignment 1 at https://docs.google.com/forms/d/1Qi1t_BhuA-csX3RBTPZq_X6zpukUVxPjAP1hJ3jbXmU/edit
+
 # Order of presentations
 
 # "Barinder" - Feb 4, 6  - "Single Index model" 
@@ -14,6 +16,5 @@ Lecture slides and R codes for the functional data analysis course in 2019
 # 
 # "Yanjun"  - Feb 27 "Optimal Bayes Classifiers for functional data"
 # "Sidi"  - March 4 "Functional linear Cox regression model"   
-# "Grace" - March 6  "Discriminative Functional Mixture Models" 
-# "Erin" - March 11  "Functional graphical models"
-# "Leshun" - March 13
+# "Grace" - March 6,11  "Discriminative Functional Mixture Models" 
+# "Erin" - March 11,13  "Functional graphical models"
