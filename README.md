@@ -3,6 +3,10 @@ Lecture slides and R codes for the functional data analysis course in 2019
 
 Please submit Assignment 1 at https://goo.gl/forms/GpSF507Gjmv2AhLv2
 
+Please submit Assignment 2 at https://goo.gl/forms/eo2Sf79YSgqU4OdI2
+
+Please submit Assignment 3 at https://goo.gl/forms/51GU3h243dYg3nCB3
+
 Deadline to submit Reports for final projects is 5pm, Monday, April 22.
 
 # Order of presentations
