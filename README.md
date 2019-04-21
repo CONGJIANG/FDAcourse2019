@@ -8,6 +8,7 @@ Please submit Assignment 2 at https://goo.gl/forms/eo2Sf79YSgqU4OdI2
 Please submit Assignment 3 at https://goo.gl/forms/51GU3h243dYg3nCB3
 
 Deadline to submit Reports for final projects is 5pm, Monday, April 22.
+Please submit the final project report at https://forms.gle/cTQtcGzRzPmQsmHZ7
 
 # Order of presentations
 
